@@ -1,0 +1,10 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'PharoPendingPatches',
+      #directory : 'source',
+      #load : [ 'CI' ],
+      #platforms : [  #pharo ]
+    }
+  ]
+}
